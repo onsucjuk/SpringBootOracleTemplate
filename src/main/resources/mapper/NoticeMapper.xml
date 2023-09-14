@@ -62,5 +62,7 @@
 		WHERE NOTICE_SEQ = #{noticeSeq}
 			
 	</delete>
+
+
 			
 </mapper>
